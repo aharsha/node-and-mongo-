@@ -1,0 +1,19 @@
+View Summary Information for a Client or Client Group on the File Analytics Report
+You can view a summary of information for the data residing on a specific client or client group with the File Analytics report. The summary contains information regarding space usage distribution by:
+
+Modified Date
+File Size
+File Types
+Procedure
+
+On the File Analytics page, select a client or a client group:
+To see summary information for a client, under Client Computers, click the name of the client you want to view.
+To see summary information for a client group, under Client Computer Groups, click the name of the client group you want to view.
+The summary report for the selected client or client group appears.
+
+To view information about archived data, click the drop-down list above the summary view, and then select Archived Data.
+By default, only data that has not been archived appears in the summary view.
+
+To access the complete analytics report, click Interactive.
+For information about what you can do in the interactive view, see Work with Report Data.
+

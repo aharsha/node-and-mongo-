@@ -1,16 +1,13 @@
+import PropsEx from "./PropsEx";
+import PropsExFc from "./PropsExFc";
+import Table from "./Table";
 
-import './App.css';
-import A from './Test'
-import ProductList from './ProductList'
 function App() {
   return (
     <div>
-      <A/>
-    <ProductList/>
-    
+      <Table tableNum="5" />
+      
     </div>
-    
   );
 }
-
 export default App;
